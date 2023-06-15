@@ -51,6 +51,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
       -  Content (<section>)
          -  Title (<h1>)
          -  Description (<p>)
+4. Implement UI Structure in HTML
+5. Styling using CSS
 
 ### Built with
 
